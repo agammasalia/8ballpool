@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BlackBall()
+comment1.params=decoratedBall
+comment1.target=BlackBall(Ball)
+comment2.params=
+comment2.target=java.awt.Color\ draw()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

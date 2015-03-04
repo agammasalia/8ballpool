@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=radius
+comment0.target=RoundWall(int)
+comment1.params=x\ y\ radius
+comment1.target=boolean\ intersectsCircle(double,\ double,\ int)
+comment2.params=x\ y\ radius
+comment2.target=int\ getNormalAngle(double,\ double,\ int)
+numComments=3
